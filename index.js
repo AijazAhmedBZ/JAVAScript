@@ -162,7 +162,7 @@ if (age) {
 }
 else {
     console.log("In else age = "+age);
-}*/
+}
 
 var a = 6;
 var b = 8;
@@ -171,4 +171,4 @@ console.log("C = "+c);var a = 6;
 
 var b = 8;
 var c = true || 0 || "Cat";
-console.log("C = "+c);
+console.log("C = "+c);*/
